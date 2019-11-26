@@ -3,6 +3,9 @@
 ## Python (download version specific to your OS) 
 https://www.python.org/downloads/
 
+## Anaconda (download version specific to your OS) 
+https://www.anaconda.com/distribution/
+
 ## Wing 101 Python IDE (download version specific to your OS)
 https://wingware.com/downloads/wingide-101
 
